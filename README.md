@@ -22,3 +22,23 @@
 * Em 2020, o mês de outubro teve uma queda no faturamento de 42,64% comparado com o ano anterior, mas manteve um faturamento anual maior em comparação com 2019
 
 ## O Dashboard pode ser acessado pelo link: https://app.powerbi.com/groups/me/reports/1e2d887c-03f1-4565-a03b-a08a9c2ff41d/687c5d203b7728a08988?experience=power-bi
+
+# 2) Dashboard de Análise de RH
+
+## Este dashboard interativo mostra como se comportam as contratações e demissões em um setor de RH, com análise de turnover
+
+### Principais Destaques:
+
+* KPIs para visualizar quantidade de colaboradores ativos, contratações, demissões e cálculo de turnover.
+* Visuais com análises de contratações e desligamentos por ano
+* Segmentações de dados por liderança, setor e cargo
+* Visuais detalhados para contratações e detalhamento de cada funcionário
+
+### Principais Insights:
+
+ * Reparamos que os desligamentos começaram no ano de 2015 até 2019
+ * O setor de desenvolvimento foi o que mais contratou, sendo a maioria dos colaboradores possui especialização e ensino superior completo.
+ * Colaboradores com mais de 6 anos de empresa tendem a não serem desligados
+ * Os faturamentos dos colaboradores tenderam a cair no primeiro semestre de 2018
+
+## Link do Dashboard: https://lnkd.in/dee8J8vb
