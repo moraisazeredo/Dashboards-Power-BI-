@@ -41,4 +41,4 @@
  * Colaboradores com mais de 6 anos de empresa tendem a não serem desligados
  * Os faturamentos dos colaboradores tenderam a cair no primeiro semestre de 2018
 
-## Link do Dashboard: https://lnkd.in/dee8J8vb
+## Link do Dashboard: [https://lnkd.in/dee8J8vb](https://app.powerbi.com/groups/me/reports/b07309db-134b-4abb-a300-e79873e59b22/ba93cb0c0d3c95b3c64f?experience=power-bi)
