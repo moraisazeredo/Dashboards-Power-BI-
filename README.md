@@ -21,7 +21,7 @@
 * Mesmo com um ticket médio menor e menos produtos no estoque, o fornecedor "Moinho Dois Irmãos" teve um faturamento de aproximadamente 583% maior que o fornecedor "Kappa Bebidas"
 * Em 2020, o mês de outubro teve uma queda no faturamento de 42,64% comparado com o ano anterior, mas manteve um faturamento anual maior em comparação com 2019
 
-## O Dashboard pode ser acessado pelo link: https://app.powerbi.com/groups/me/reports/1e2d887c-03f1-4565-a03b-a08a9c2ff41d/687c5d203b7728a08988?experience=power-bi
+## O Dashboard pode ser acessado pelo link: https://app.powerbi.com/groups/me/reports/76af6c1e-f8c2-4ce8-b628-ecb6f958eb2e/687c5d203b7728a08988?experience=power-bi
 
 # 2) Dashboard de Análise de RH
 
@@ -41,4 +41,4 @@
  * Colaboradores com mais de 6 anos de empresa tendem a não serem desligados
  * Os faturamentos dos colaboradores tenderam a cair no primeiro semestre de 2018
 
-## Link do Dashboard: [https://lnkd.in/dee8J8vb](https://app.powerbi.com/groups/me/reports/b07309db-134b-4abb-a300-e79873e59b22/ba93cb0c0d3c95b3c64f?experience=power-bi)
+## Link do Dashboard: https://app.powerbi.com/groups/me/reports/cb2f2346-2afb-4932-bcdc-ee1b11f37403/ba93cb0c0d3c95b3c64f?experience=power-bi
